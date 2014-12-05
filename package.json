@@ -1,6 +1,6 @@
 {
   "name": "winston-leveldb",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Basic LevelDB transport for winston logging library",
   "main": "./lib/winston-leveldb",
   "scripts": {
