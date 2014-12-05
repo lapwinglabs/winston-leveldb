@@ -2,6 +2,9 @@
 logs
 *.log
 
+# LevelDB instance generated during test
+log-test
+
 # Runtime data
 pids
 *.pid

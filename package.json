@@ -1,0 +1,27 @@
+{
+  "name": "winston-leveldb",
+  "version": "0.0.1",
+  "description": "Basic LevelDB transport for winston logging library",
+  "main": "./lib/winston-leveldb",
+  "scripts": {
+    "test": "node ./test/winston-leveldb-test.js"
+  },
+  "keywords": [
+    "winston",
+    "leveldb",
+    "logging",
+    "log"
+  ],
+  "author": "Brian Dentino <brian.dentino@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "level-11": "^0.18.0",
+    "sublevel": "^2.4.0",
+    "uid": "0.0.2",
+    "winston": "^0.8.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bdentino/winston-leveldb"
+  }
+}
